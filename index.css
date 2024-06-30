@@ -1,0 +1,12 @@
+@font-face{ font-family: sitelen; src: url('./FairfaxPonaHD.ttf'); }
+
+p, h1, h2, h3, h4, h5, h6{
+    font-family: sitelen, serif;
+}
+
+body{
+    padding-top: 20px;
+    text-align: left;
+    padding-right: 25%;
+    padding-left: 25%;
+}
